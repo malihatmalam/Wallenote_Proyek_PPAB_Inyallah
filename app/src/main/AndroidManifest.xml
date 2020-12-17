@@ -12,19 +12,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".inputPemasukan">
+        <activity android:name=".test">
         </activity>
-        <activity android:name=".riwayatPemasukan">
-        </activity>
-        <activity android:name=".riwayatPengeluaran">
-        </activity>
-        <activity android:name=".InputPengeluaran">
-        </activity>
-        <activity android:name=".addPengeluaran">
-        </activity>
+        <activity android:name=".UpdateCatatan" />
+        <activity android:name=".RiwayatPengeluaran1" />
+        <activity android:name=".LihatCatatan" />
+        <activity android:name=".RiwayatPemasukan1" />
+        <activity android:name=".TambahCatatan" />
+        <activity android:name=".inputPemasukan" />
+        <activity android:name=".riwayatPemasukan" />
+        <activity android:name=".riwayatPengeluaran" />
+        <activity android:name=".InputPengeluaran" />
+        <activity android:name=".addPengeluaran" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

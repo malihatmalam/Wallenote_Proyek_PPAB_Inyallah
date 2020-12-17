@@ -6,4 +6,6 @@
 
     <color name="colorGreen">#36CE6A</color>
     <color name="colorRed">#FF1010</color>
+    <color name="putih">#FFFFFF</color>
+    <color name="hitam">#000000</color>
 </resources>
